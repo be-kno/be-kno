@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing, MCU and Cybersecurity.
 - 🌱 I’m currently learning DevOps related things.
 - 💞️ I’m looking to collaborate on everything I can.
-- 📫 How to reach me: 127.0.0.1
+- 📫 How to reach me: https://www.linkedin.com/in/bernardoknoblauch/
 - ⚡ Fun fact: You'll need people like me to build a rocket.
 
 <!---
